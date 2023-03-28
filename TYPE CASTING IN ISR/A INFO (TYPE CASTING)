@@ -1,0 +1,5 @@
+There are certain rule to type cast in java
+rule no.1:
+you can cast to string using Data_typea.parseData_type(string_value)
+if we add 32 to upper case we get ascii of lowercase 
+and vise versa
